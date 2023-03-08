@@ -1,45 +1,14 @@
-#---------------------------
-# Themes
-#---------------------------
 /themes/*
 !/themes/WordPressThemeV1
-
-#---------------------------
-# Plugins
-# Check out WPE's Smart
-# Plugin Manager (SMP)
-#---------------------------
-# Ignore all plugins
 /plugins/*
-
-#---------------------------
-# MU plugins: these are
-# managed by the platform.
-#---------------------------
 /mu-plugins/
-
-#---------------------------
-# Uploads directory
-#---------------------------
+/.idea/
 /uploads/
-
-#---------------------------
-# Upgrade files
-#---------------------------
 /upgrade/
-
-#---------------------------
-# OS-specific files
-#---------------------------
 .DS_Store
 .Trashes
 Thumbs.db
-
-#---------------------------
-# Smart Plugin Manager
-#---------------------------
 /.logs/
-
 autoupdater_maintenance_mode_enabled.tmp
 
 #---------------------------
