@@ -2,7 +2,7 @@
 # Themes
 #---------------------------
 /themes/*
-!/themes/qorp-theme
+!/themes/WordPressThemeV1
 
 #---------------------------
 # Plugins
